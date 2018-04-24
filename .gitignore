@@ -1,0 +1,6 @@
+/vendor
+/.idea
+/.vagrant
+coverage
+coverage.xml
+composer.lock

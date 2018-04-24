@@ -1,0 +1,26 @@
+{
+  "name": "napp/codeception-sqlquery",
+  "description": "SQL query assertions for Codeception",
+  "keywords": [
+    "napp",
+    "codeception",
+    "laravel"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mads Møller",
+      "email": "mm@napp.dk"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Codeception\\Module\\": "src/"
+    }
+  },
+  "require": {
+    "php" : ">=7.0",
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
